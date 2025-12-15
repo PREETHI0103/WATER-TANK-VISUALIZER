@@ -90,12 +90,10 @@ This ensures efficient performance even for larger inputs.
 ## 📂 Project Structure
 
 water-tank-visualizer/
-│
-├── index.html # Main application layout
-├── style.css # Styling and UI design
-├── script.js # Core logic and visualization
-└── README.md # Project documentation
-
+├── index.html   # Main application layout
+├── style.css    # Styling and UI design
+├── script.js    # Core logic and visualization
+└── README.md    # Project documentation
 ---
 
 ## 👩‍💻 Author
