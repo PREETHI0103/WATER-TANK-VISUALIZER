@@ -105,7 +105,6 @@ water-tank-visualizer/
 
 - This is a **frontend-only solution**
 - No external libraries or frameworks are used
-- Designed specifically for **technical interviews and evaluations**
 - Focuses on both **algorithm correctness** and **visual clarity**
 
 ---
