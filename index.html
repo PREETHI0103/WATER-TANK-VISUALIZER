@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>💧 Water Tank Problem Solver</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+<div class="container">
+    <h1>💧 Water Tank Problem Solver</h1>
+    <p class="subtitle">Enter block heights and watch how much water can be trapped! 🌊</p>
+
+    <div class="input-section">
+        <input type="text" id="inputArray" placeholder="e.g., 0,4,0,0,0,6,0,6,4,0">
+        <button onclick="calculateAndVisualize()">Visualize Now! 🚀</button>
+        <button onclick="resetDiagrams()">Reset 🔄</button>
+    </div>
+
+    <section class="diagram-section">
+        <h2 class="diagram-heading">Block Setup & Water Trapped 🏗️</h2>
+        <svg id="inputSVG" width="100%" height="400"></svg>
+    </section>
+
+    <section class="diagram-section">
+        <h2 class="diagram-heading">Water Stored 🌊</h2>
+        <svg id="outputSVG" width="100%" height="400"></svg>
+    </section>
+
+    <h2 id="result" class="result-text"></h2>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
+
