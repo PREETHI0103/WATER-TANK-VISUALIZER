@@ -1,6 +1,6 @@
 # 💧 Water Tank Problem – Trapped Rain Water Visualizer
 
-🌐 **Try it Live:** 
+🌐 **Try it Live:**  https://preethi0103.github.io/WATER-TANK-VISUALIZER/
 
 This project is a **frontend web application** that solves and visualizes the classic
 **Trapping Rain Water Problem** using **Vanilla JavaScript, HTML, CSS, and SVG**.
