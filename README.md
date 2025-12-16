@@ -115,7 +115,7 @@ This project demonstrates the ability to:
 - Solve a classic algorithmic problem efficiently
 - Translate logic into intuitive visualizations
 - Build clean frontend applications using core web technologies
-- Present solutions in a professional and interview-friendly manner
+
 
 
 
